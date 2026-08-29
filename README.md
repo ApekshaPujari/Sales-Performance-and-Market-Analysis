@@ -73,7 +73,10 @@ This dashboard helps businesses:
 
 - Dashboard Preview
 
-<img width="1178" height="674" alt="Power Bi " src="https://github.com/user-attachments/assets/486a9173-b9e5-464c-bb5e-ca1275373165" />
+<img width="668" height="380" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/6b1f007d-018c-4023-8edc-377a57b763d6" />
+
+
+
 
 
 
