@@ -46,7 +46,7 @@ The objective was to analyze FY-2026 sales performance and understand revenue co
 Tools: Power BI, Power Query
 Skills: Data Cleaning, Data Transformation, DAX, Data Analysis, Data Visualization, KPI Analysis, Dashboard Development, Business Insights
 
-- Dashboard Preview
+10. Dashboard Preview
 
 <img width="668" height="380" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/6b1f007d-018c-4023-8edc-377a57b763d6" />
 
