@@ -12,7 +12,7 @@ The objective was to analyze FY-2026 sales performance and understand revenue co
 - Created calculated measures using DAX for key sales KPIs.
 - Structured the data to enable analysis by product, category, city, and date.
   
-4. Steps of Analysis
+3. Steps of Analysis
    
 - Calculated overall revenue, orders, quantity sold, and average order value.
 - Analyzed monthly revenue trends throughout FY-2026.
@@ -22,7 +22,7 @@ The objective was to analyze FY-2026 sales performance and understand revenue co
 - Compared sales performance across five cities.
 - Built interactive filters for Category and City.
   
-6. Data Insights
+4. Data Insights
 
 - Generated 6.16M total revenue from 1,000 orders and 2,469 units sold.
 - Average Order Value was 6.16K.
@@ -33,7 +33,7 @@ The objective was to analyze FY-2026 sales performance and understand revenue co
 - Among the cities shown, Chennai recorded the highest revenue, followed by Kolkata and Mumbai.
 - The top 5 products by revenue were Phone, Bread, Jacket, Jeans, and T-Shirt.
   
-7. Recommendations
+5. Recommendations
 
 - Prioritize Electronics, which contributed 34.41% of total revenue.
 - Maintain strong inventory and promotional focus on Phone, the highest-revenue product at 838K.
@@ -41,12 +41,12 @@ The objective was to analyze FY-2026 sales performance and understand revenue co
 - Monitor monthly revenue fluctuations to identify periods of stronger and weaker sales.
 - Use the dashboard for ongoing monitoring of revenue, orders, product performance, and category contribution.
 
-9. Tools & Skills Used
+6. Tools & Skills Used
 
 Tools: Power BI, Power Query
 Skills: Data Cleaning, Data Transformation, DAX, Data Analysis, Data Visualization, KPI Analysis, Dashboard Development, Business Insights
 
-10. Dashboard Preview
+7. Dashboard Preview
 
 <img width="668" height="380" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/6b1f007d-018c-4023-8edc-377a57b763d6" />
 
